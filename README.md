@@ -1,9 +1,5 @@
 # Sign Language Detector Python
 
-Sign language detector with Python, OpenCV and Mediapipe !
-
-Credit to this video [![Watch the video]](https://www.youtube.com/watch?v=MJCSjXepaAM)
-
 # Workshop 1: Look at the Bitcamp slides
 Here is a link for the slides. Please take a look at this: [Github slides](https://docs.google.com/presentation/d/1pXe2rrhoDVUvtryA6I3aUcQHmM3yQxe-EuK8QjWuXmM/edit#slide=id.p)
 
@@ -109,3 +105,11 @@ You can also install the dependinces manually, please install the packages below
 opencv-python==4.7.0.68
 mediapipe==0.9.0.1
 scikit-learn==1.2.0
+
+# Workshop 3: We will process the data, code will be released after the workshop!
+
+# Workshop 4: We will train and use our model, code will be released after the workshop!
+
+Sign language detector with Python, OpenCV and Mediapipe !
+
+Credit to this video [![Watch the video]](https://www.youtube.com/watch?v=MJCSjXepaAM)
