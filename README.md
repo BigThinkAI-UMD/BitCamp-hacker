@@ -116,6 +116,4 @@ scikit-learn==1.2.0
 
 # Workshop 4: We will train and use our model, code will be released after the workshop!
 
-Sign language detector with Python, OpenCV and Mediapipe !
-
-Credit to this video [![Watch the video]](https://www.youtube.com/watch?v=MJCSjXepaAM)
+Credits: [![Watch the video]](https://www.youtube.com/watch?v=MJCSjXepaAM)
