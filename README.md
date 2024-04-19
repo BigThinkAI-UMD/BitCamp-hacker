@@ -72,6 +72,7 @@ This command will create a folder named *venv* in your project directory, which 
 
 ### 2. Activate Virtual Environment
 Activate the virtual environment using the appropriate command based on your operating system:
+**For Pyenv:**
 **For Windows:**
 
 `.\venv\Scripts\activate`
@@ -84,6 +85,27 @@ After activation, you should see (venv) prefixed in your terminal prompt, indica
 
 **ONCE DONE WORKING, YOU DEACTIVATE THE ENVIRONMENT BY RUNNING `deactivate`**
 
+**For Conda:**
+
+Create a new virtual environment with the following command. When conda asks you to proceeed press 'y':
+`conda create --name <my-env>`
+
+Then, you can activate the command with the following command:
+`conda activate <my-env>`
+
+To deactivate, run:
+`conda deactivate`
+
+## Dependencies
+
+This project requires the following dependencies to be installed:
+
 Now, it is time to install the necessary dependencies.
 
 **Run `pip install -r requirements.txt`**
+
+You can also install the dependinces manually, please install the packages below using the **same version**
+
+opencv-python==4.7.0.68
+mediapipe==0.9.0.1
+scikit-learn==1.2.0
