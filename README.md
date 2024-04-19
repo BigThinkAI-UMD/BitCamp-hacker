@@ -48,8 +48,10 @@ sudo apt-get install git
 
 Now that we have git, navigate to the folder/directory that you want your code to be located on your computer using the `cd [directory name here]` command. `cd` means "change directory", or switch into that folder. If you want to pop back/exit the folder, use `cd ..`. Using these commands, run this code to clone the repo and have the repo template on your computer:
 
-`git clone https://github.com/BigThinkAI-UMD/BitCamp-Student`
-[Link to repo to clone here](https://github.com/BigThinkAI-UMD/BitCamp-Student)
+https://github.com/BigThinkAI-UMD/BitCamp-hacker
+
+`git clone https://github.com/BigThinkAI-UMD/BitCamp-hacker`
+[Link to repo to clone here](https://github.com/BigThinkAI-UMD/BitCamp-hacker)
 
 Also, here is a .zip file of all the data you will need to build the model. It is too large to directly add to the Github repo linked above, so please download it and keep it in the same folder/directory/workspace as the rest of your files. [UPDATED_Data.zip](https://drive.google.com/file/d/1VrKK2v_x-wAZJviP-K5dNdrRyJspyYm8/view?usp=sharing)
 
