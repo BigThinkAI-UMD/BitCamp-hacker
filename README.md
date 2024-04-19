@@ -1,7 +1,6 @@
 # Sign Language Detector Python
 
-# Workshop 1: Look at the Bitcamp slides
-Here is a link for the slides. Please take a look at this: [Github slides](https://docs.google.com/presentation/d/1pXe2rrhoDVUvtryA6I3aUcQHmM3yQxe-EuK8QjWuXmM/edit#slide=id.p)
+# Workshop 1: Look at workshop slides, will be released later!
 
 # Workshop 2: Set up the repository and dependencies
 ## HEAVILY RECOMMEND ATTENDING THIS WORKSHOP IF INTERESTED IN THIS PROJECT. THIS MAKES TROUBLESHOOTING EASIER.
