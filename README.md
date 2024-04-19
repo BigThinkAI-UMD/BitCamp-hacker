@@ -60,11 +60,19 @@ Setting up a Python virtual environment is essential to isolate your project's d
 
 ### 1. Create Virtual Environment
 
+**For Pyenv:**
+
 Open a terminal or command prompt and navigate to your project directory. Then, execute the following command to create a virtual environment named `venv`:
 
 `python -m venv venv` (Again try python3 if that doesn't work)
 
 This command will create a folder named *venv* in your project directory, which will contain the Python interpreter and libraries specific to your project.
+
+**For Conda:**
+
+Create a new virtual environment with the following command. When conda asks you to proceeed press 'y':
+
+`conda create --name <my-env>`
 
 ### 2. Activate Virtual Environment
 Activate the virtual environment using the appropriate command based on your operating system:
@@ -79,17 +87,15 @@ Activate the virtual environment using the appropriate command based on your ope
 
 After activation, you should see (venv) prefixed in your terminal prompt, indicating that the virtual environment is active.
 
-**ONCE DONE WORKING, YOU DEACTIVATE THE ENVIRONMENT BY RUNNING `deactivate`**
-
-**For Conda:**
-
-Create a new virtual environment with the following command. When conda asks you to proceeed press 'y':
-`conda create --name <my-env>`
-
+**Conda:**
 Then, you can activate the command with the following command:
+
 `conda activate <my-env>`
 
-To deactivate, run:
+**ONCE DONE WORKING, YOU DEACTIVATE THE ENVIRONMENT BY RUNNING `deactivate`**
+
+To deactivate, with conda run:
+
 `conda deactivate`
 
 ## Dependencies
