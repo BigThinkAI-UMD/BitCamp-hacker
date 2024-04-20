@@ -57,7 +57,7 @@ Also, here is a .zip file of all the data you will need to build the model. It i
 
 ## Setup Python Virtual Environment (venv)
 
-Setting up a Python virtual environment is essential to isolate your project's dependencies from the system-wide Python installation. Follow these steps to create and activate a virtual environment for this project:
+Setting up a Python virtual environment is essential to isolate your project's dependencies from the system-wide Python installation. Follow these steps to create and activate a virtual environment for this project. Please use **Python 3.10.11** (others may work, this is just what we used):
 
 ### 1. Create Virtual Environment
 
@@ -73,7 +73,7 @@ This command will create a folder named *venv* in your project directory, which 
 
 Create a new virtual environment with the following command. When conda asks you to proceeed press 'y':
 
-`conda create --name <my-env>`
+`conda create --name <my-env> python=3.10.11`
 
 ### 2. Activate Virtual Environment
 Activate the virtual environment using the appropriate command based on your operating system:
