@@ -113,7 +113,11 @@ opencv-python==4.7.0.68
 mediapipe==0.9.0.1
 scikit-learn==1.2.0
 
-Note: When you are running `collect_data.py`, make sure you have created a data folder in the project to hold the images.
+## Running `collect_imgs.py`
+
+Note: When you are running `collect_imgs.py`, make sure you have created a data folder in the project to hold the images.
+
+Here you will have to hold each sign language character for 20 seconds (remember we are skipping j and z). The code will take a 100 images from that 20 seconds and store it. Make sure you have good lighting, so we have good training data!
 
 # Workshop 3: We will process the data, code will be released after the workshop!
 
