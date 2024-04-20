@@ -73,7 +73,7 @@ This command will create a folder named *venv* in your project directory, which 
 
 Create a new virtual environment with the following command. When conda asks you to proceeed press 'y':
 
-`conda create --name <my-env> python=3.10.11`
+`conda create --name <my-env> python=3.10`
 
 ### 2. Activate Virtual Environment
 Activate the virtual environment using the appropriate command based on your operating system:
