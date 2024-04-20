@@ -1,6 +1,6 @@
 # Sign Language Detector Python
 
-# Workshop 1: Look at workshop slides, will be released later!
+# Workshop 1: [Here](https://github.com/BigThinkAI-UMD/workshop1)
 
 # Workshop 2: Set up the repository and dependencies
 ## HEAVILY RECOMMEND ATTENDING THIS WORKSHOP IF INTERESTED IN THIS PROJECT. THIS MAKES TROUBLESHOOTING EASIER.
