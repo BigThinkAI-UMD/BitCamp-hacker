@@ -113,6 +113,8 @@ opencv-python==4.7.0.68
 mediapipe==0.9.0.1
 scikit-learn==1.2.0
 
+Note: When you are running `collect_data.py`, make sure you have created a data folder in the project to hold the images.
+
 # Workshop 3: We will process the data, code will be released after the workshop!
 
 # Workshop 4: We will train and use our model, code will be released after the workshop!
