@@ -57,7 +57,7 @@ Also, here is a .zip file of all the data you will need to build the model. It i
 
 ## Setup Python Virtual Environment (venv)
 
-Setting up a Python virtual environment is essential to isolate your project's dependencies from the system-wide Python installation. Follow these steps to create and activate a virtual environment for this project. Please use **Python 3.10.11** (others may work, this is just what we used):
+Setting up a Python virtual environment is essential to isolate your project's dependencies from the system-wide Python installation. Follow these steps to create and activate a virtual environment for this project. Please use **Python 3.10.11** (others may work, this is just what we used). We suggest using conda:
 
 ### 1. Create Virtual Environment
 
@@ -118,6 +118,9 @@ scikit-learn==1.2.0
 Note: When you are running `collect_imgs.py`, make sure you have created a data folder in the project to hold the images.
 
 Here you will have to hold each sign language character for 20 seconds (remember we are skipping j and z). The code will take a 100 images from that 20 seconds and store it. Make sure you have good lighting, so we have good training data!
+
+## How to make sure you are done!
+- By the end, you should have a virtual environment with the dependencies mentioned installed. Also, please have this repository cloned locally. 
 
 # Workshop 3: We will process the data, code will be released after the workshop!
 
